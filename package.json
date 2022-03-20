@@ -1,0 +1,22 @@
+{
+  "name": "@xfaonae/logic7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XFaonAE/Logic7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+      "registry":"https://npm.pkg.github.com/"
+   },  
+  "bugs": {
+    "url": "https://github.com/XFaonAE/Logic7/issues"
+  },
+  "homepage": "https://github.com/XFaonAE/Logic7#readme"
+}
